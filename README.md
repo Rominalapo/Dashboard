@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8"/>
@@ -1124,5 +1123,3 @@ window.addEventListener('scroll', () => {
 </script>
 </body>
 </html>
-HTMLEOF
-echo "done"
